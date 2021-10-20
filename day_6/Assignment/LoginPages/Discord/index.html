@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Discord Login</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="login">
+        <h2>Welcome Back!</h2>
+        <p>We're so excited to see you again!</p>
+        <form action="#" method="POST">
+          <label for="emailOrPh">Email or Phone Number</label>
+          <input
+            type="text"
+            class="loginDetail"
+            id="emailOrPh"
+            required
+            autofocus
+          />
+          <label for="password">Password</label>
+          <input type="password" class="loginDetail" id="password" />
+          <a href="#" class="fypwd">Forgot your password?</a>
+          <input type="submit" id="submit" value="Login" />
+          <div class="registry">
+            <span>Need an account? </span> <a href="#">Register</a>
+          </div>
+        </form>
+      </div>
+      <div class="emptyDiv"></div>
+      <div class="QR">
+        <img src="images/discordQR.jpg" class="QR-code" alt="QR code" />
+        <h4>Login with QR Code</h4>
+        <p>
+          Scan this with the <strong>Discord Mobile App </strong>to login
+          instantly
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

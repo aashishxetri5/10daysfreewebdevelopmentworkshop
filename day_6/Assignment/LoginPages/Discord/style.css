@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background-image: url(images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+.wrapper {
+  background-color: #36393f;
+  height: 380px;
+  width: 800px;
+  padding: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: space-around;
+  border-radius: 5px;
+  user-select: none;
+}
+
+.login {
+  width: 65%;
+}
+
+.login form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login p {
+  color: #b9bbbe;
+  line-height: 40px;
+  margin-bottom: 5px;
+}
+
+form label {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  color: #b9bbbe;
+}
+
+form input {
+  width: 100%;
+  height: 40px;
+  font-size: 17px;
+  border-radius: 3px;
+}
+
+.loginDetail {
+  padding: 10px;
+  background-color: #303339;
+  border: 1px solid rgba(4, 4, 5, 0.5);
+  color: #dcddde;
+}
+
+.loginDetail:focus {
+    outline:  .5px solid #1877f2;
+}
+
+#emailOrPh {
+  margin-bottom: 20px;
+}
+
+.fypwd {
+  color: #0b97cf;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.fypwd:hover {
+  text-decoration: underline;
+}
+
+#submit {
+  background-color: #5865f2;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+#submit:hover {
+  transition: 0.5s all;
+  background-color: #4752c4;
+}
+
+.registry {
+  margin: 15px 0;
+  font-size: 14px;
+}
+
+.registry span {
+  color: #72767d;
+}
+
+.registry a {
+  color: #0b97cf;
+}
+
+.registry a:hover {
+  text-decoration: underline;
+}
+
+.emptyDiv {
+  width: 50px;
+}
+
+.QR {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.QR img {
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.QR h4 {
+  font-size: 1.3rem;
+  letter-spacing: 1.5px;
+  font-weight: 800;
+  margin-top: 20px;
+  line-height: 40px;
+}
+
+.QR p {
+  color: #afb1b4;
+  font-size: 15px;
+  text-align: center;
+}
