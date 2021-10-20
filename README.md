@@ -3,18 +3,20 @@
 ## Hello Fellow Community Members, <br/>
 ## This repository contains all the files used in the workshop to follow along or revise later. 
 
+
 ### You can just clone or download the zip file from here, simply download unzip and revise:
 `Day 1` [Download Day 1 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_1/day_1.zip) <br/>
 `Day 2` [Download Day 2 Zip + Assignments ](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_2/day_2_class_and_assignments.zip) |  [View assignments](day_2/README.md) </br>
 `Day 3` [Download Day 3 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_3/day3.zip) </br>
 `Day 4` [Download Day 4 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_4/day4.zip) </br>
 `Day 5` [Download Day 5 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) </br>
-`Day 6` [Download Day 6 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_5/day5.zip) | [View Assignment ](day_6/README.md)
-
+`Day 6` [Download Day 6 Zip](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_6/day6.zip) | [View Assignment ](day_6/README.md) </br>
+`Day 7` [Download Day 7 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_7/day7.zip) </br>
+`Day 8` [Download Day 8 code](https://github.com/whoissubedibibek/10daysfreewebdevelopmentworkshop/raw/main/day_8/day8.zip) 
 
 <br/>
 
-## Syllabus : http://tiny.cc/itsnpworkshopsyllabus
+## Syllabus : [click to view syllabus](https://docs.google.com/document/d/1T05QsBsgvGhdUvSo8VCEnkaO8P8ZKRtswLXpgtpkQwc/edit)
 <br/>
 About the workshop : 10 Days Free Ultimate Web Development Workshop ( HTML, CSS, JS )<br/>
 Date : October 8 - 18<br/>
@@ -41,6 +43,6 @@ Tutor : Dilip BK <br/>
 
 ### Thank you to the whole team 
 
-| [Neri Shrestha](https://github.com/shresthaneri) | [ Dilip Bk](https://github.com/dilipbk) | [Nishant Shrestha]() | [	Unique Maharjan](https://github.com/UniqueMaharjan) | [	Stuti upreti ](https://github.com/thestuti) | [Nishant Sapkota](https://github.com/thenishantsapkota) | [Sachit Yadav](https://github.com/ASACHIT) |
+| [Neri Shrestha](https://github.com/shresthaneri) | [ Dilip Bk](https://github.com/dilipbk) | [Nishant Shrestha](https://github.com/sNishant011) | [	Unique Maharjan](https://github.com/UniqueMaharjan) | [	Stuti upreti ](https://github.com/thestuti) | [Nishant Sapkota](https://github.com/thenishantsapkota) | [Sachit Yadav](https://github.com/ASACHIT) |
 
 ![workshop graphics](/Workshopgraphics.png) 
