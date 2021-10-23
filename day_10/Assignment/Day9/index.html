@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Day 9</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h3>
+      Q1. Create a program which takes the favorite foods of 3 people as input
+      and
+    </h3>
+    <h3>Q2. Create 3 different unordered lists and</h3>
+    <h3>
+      Q3. Display the favorite foods in each list item on the document (give
+      your own styling)
+    </h3>
+
+    <br /><br />
+    <div class="form-wrapper dd">
+      <form action="" name="myForm" method="post" id="form">
+        <select name="users" class="form-fields" required>
+          <option value="User A">User A</option>
+          <option value="User B">User B</option>
+          <option value="User C">User C</option>
+        </select>
+        <input
+          type="text"
+          name="fullname"
+          class="form-fields fname"
+          placeholder="Full Name"
+          required
+        />
+        <input
+          type="text"
+          name="fav1"
+          class="form-fields fav1"
+          placeholder="Favourite Food 1"
+        />
+        <input
+          type="text"
+          name="fav2"
+          class="form-fields fav2"
+          placeholder="Favourite Food 2"
+        />
+        <input
+          type="text"
+          name="fav3"
+          class="form-fields fav3"
+          placeholder="Favourite Food 3"
+        />
+        <div class="error">
+          <span id="error-msg"></span>
+        </div>
+
+        <input
+          type="button"
+          class="form-fields btn"
+          name="submit"
+          value="Save"
+          onclick="takeValues()"
+        />
+      </form>
+      <div class="separator"></div>
+
+      <div class="display"></div>
+    </div>
+    <script src="App.js"></script>
+  </body>
+</html>
